@@ -13,4 +13,4 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 
-このアプリケーションは2023年9月14日に株式会社MTIのインターンシップのチーム共同開発で作成したものです。
+This application was created on September 14, 2023 by a team collaboration of interns at MTI, Inc.
